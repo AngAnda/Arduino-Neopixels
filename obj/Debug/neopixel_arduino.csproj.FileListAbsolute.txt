@@ -1,0 +1,23 @@
+C:\Users\Andreea\source\repos\neopixel_arduino\bin\Debug\neopixel_arduino.exe.config
+C:\Users\Andreea\source\repos\neopixel_arduino\bin\Debug\neopixel_arduino.exe
+C:\Users\Andreea\source\repos\neopixel_arduino\bin\Debug\neopixel_arduino.pdb
+C:\Users\Andreea\source\repos\neopixel_arduino\obj\Debug\neopixel_arduino.csprojAssemblyReference.cache
+C:\Users\Andreea\source\repos\neopixel_arduino\obj\Debug\neopixel_arduino.Form1.resources
+C:\Users\Andreea\source\repos\neopixel_arduino\obj\Debug\neopixel_arduino.Properties.Resources.resources
+C:\Users\Andreea\source\repos\neopixel_arduino\obj\Debug\neopixel_arduino.csproj.GenerateResource.cache
+C:\Users\Andreea\source\repos\neopixel_arduino\obj\Debug\neopixel_arduino.exe
+C:\Users\Andreea\source\repos\neopixel_arduino\obj\Debug\neopixel_arduino.pdb
+C:\Users\Andreea\source\repos\neopixel_arduino\obj\Debug\neopixel_arduino.Form3.resources
+C:\Users\Andreea\source\repos\neopixel_arduino\obj\Debug\neopixel_arduino.FirstPage.resources
+C:\Users\Andreea\source\repos\neopixel_arduino IMPORTANT\bin\Debug\neopixel_arduino.exe.config
+C:\Users\Andreea\source\repos\neopixel_arduino IMPORTANT\bin\Debug\neopixel_arduino.exe
+C:\Users\Andreea\source\repos\neopixel_arduino IMPORTANT\bin\Debug\neopixel_arduino.pdb
+C:\Users\Andreea\source\repos\neopixel_arduino IMPORTANT\obj\Debug\neopixel_arduino.csproj.AssemblyReference.cache
+C:\Users\Andreea\source\repos\neopixel_arduino IMPORTANT\obj\Debug\neopixel_arduino.FirstPage.resources
+C:\Users\Andreea\source\repos\neopixel_arduino IMPORTANT\obj\Debug\neopixel_arduino.Form1.resources
+C:\Users\Andreea\source\repos\neopixel_arduino IMPORTANT\obj\Debug\neopixel_arduino.Form3.resources
+C:\Users\Andreea\source\repos\neopixel_arduino IMPORTANT\obj\Debug\neopixel_arduino.Properties.Resources.resources
+C:\Users\Andreea\source\repos\neopixel_arduino IMPORTANT\obj\Debug\neopixel_arduino.csproj.GenerateResource.cache
+C:\Users\Andreea\source\repos\neopixel_arduino IMPORTANT\obj\Debug\neopixel_arduino.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\source\repos\neopixel_arduino IMPORTANT\obj\Debug\neopixel_arduino.exe
+C:\Users\Andreea\source\repos\neopixel_arduino IMPORTANT\obj\Debug\neopixel_arduino.pdb
