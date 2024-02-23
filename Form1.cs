@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
@@ -85,7 +78,6 @@ namespace neopixel_arduino
                 byte red = cd.Color.R;
                 byte green = cd.Color.G;
                 byte blue = cd.Color.B;
-                //System.Drawing.Color cl = new System.Drawing.Color();
                 panel4.BackColor = cd.Color;
                 textBox2.Text = red.ToString();
                 textBox3.Text = green.ToString();
@@ -127,7 +119,6 @@ namespace neopixel_arduino
             tb2.Text = f.textBox4.Text;
             string s = textBox1.Text.ToString();
             mesaj(n);
-            //s += tb2.Text.ToString();
             textBox1.Text = s;
         }
 
